@@ -19,7 +19,7 @@ import java.util.Map;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 
-public class CoffeeMachineTestInputJson1 {
+public class TestCoffeeMachineInputJson1 {
 
     CoffeeMachine coffeeMachine;
     MachineInitializationRequest request;
